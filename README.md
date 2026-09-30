@@ -16,13 +16,13 @@ It's a simple, intuitive app built with one goal: to show you upcoming and histo
 
 ### 📸 App Preview
 
-**Main Dashboard & Sidebar Filtering**  
+**Main Dashboard**  
 General view of the app.
 
 ![Main View](Logos/screen_shots/sc1.png)
 
-**Sidebar Filtering**
-Find exactly what you are looking for using the custom search, date ranges, and series selection.
+**Sidebar Filtering**  
+Find exactly what you are looking for using the custom search date ranges, and series selection.
 
 ![Sidebar View](Logos/screen_shots/sc2.png)
 
