@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.json
+F1_Data.json
+motorsport-calendar-app-firebase-key.json
+parseData.py
+AddJsonData.py
+test_db.py
+bluprint.txt
